@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Javascript Advanced Class Concepts</title>
+    </head>
+    <body>
+        <p id="demo"></p>
+        <script>
+            class Employee
+            {
+                constructor(firstname,lastname,salary)  //Formal aparameter//
+                {
+                  this.Firstname = firstname;
+                  this.Lastname = lastname;             //this.name=stored values in this memory location//
+                  this.Salary = salary;
+                }
+            }
+
+            const myEmp = new Employee("Nikita" , "Bhoyar" , 45,000);
+            document.getElementById("demo").innerHTML = myEmp.Firstname + " " + myEmp.Lastname+" " +myEmp.salary ;
+        </script>
+    </body>
+</html>

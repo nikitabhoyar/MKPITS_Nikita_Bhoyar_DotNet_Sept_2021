@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Javascript Date Function</title>
+    </head>
+    <body>
+        <p id="demo"></p>
+        <p id="demo1"></p>
+        <p id="demo2"></p><hr>
+        <p>The getFullYear() method returns the full year of a date:</p>
+        <p id="yr"></p>
+        <hr>
+        <p>The getMonth() method returns the month of a date as number:</p>
+        <p id="month"></p>
+        <hr>
+        <p>The getDate() method returns the day of a date as a number(1-31):</p>
+        <p id="date"></p>
+        <hr>
+        <p>The getHours() method returns the hours of a date as a number(0-23):</p>
+        <p id="hours"></p>
+        <hr>
+        <p>The getMinutes() method returns the minutes of a date as a number(0-59):</p>
+        <p id="minutes"></p>
+        <hr>
+        <p>The getSeconds() method returns the seconds of a date as a number(0-59):</p>
+        <p id="seconds"></p>
+        <hr>
+        <p>The getMiliseconds() method returns the miliseconds of a date as a number (0-999):</p>
+        <p id="miliseconds"></p>
+        <hr>
+        <p>The getTime() method returns the time of a date as a number:</p>
+        <p id="time"></p>
+        <hr>
+        <p>The getDay() method returns the day of a date:</p>
+        <p id="day"></p>
+        <hr>
+
+        
+       
+        <script>
+
+            const d = new Date();
+            document.getElementById("demo").innerHTML=  "Todays's Date is - " +d+ "<br>";
+
+            const d1 = new Date(2018 , 11 , 24 , 10 , 33 , 30 , 0);
+            document.getElementById("demo1").innerHTML="Any Particular Date is - " +d1+ "<br>";
+            
+            const d2 = new Date(1999-09-17);
+            document.getElementById("demo2").innerHTML= "ISO Date Format is :" +d2+ "<b>";
+
+            fullyear = d.getFullYear();
+            document.getElementById("yr").innerHTML = "Fullyear is extracted here:" +fullyear ;
+
+            month = d.getMonth();
+            document.getElementById("month").innerHTML = "Month is extracted here:" +month ;
+
+            date = d.getDate();
+            document.getElementById("date").innerHTML = "Date is extracted here:" +date ;
+
+
+            hours = d.getHours();
+            document.getElementById("hours").innerHTML = "Hours is extracted here:" +hours ;
+
+
+            minutes = d.getMinutes();
+            document.getElementById("minutes").innerHTML = "Minutes is extracted here:" +minutes ;
+
+            seconds = d.getSeconds();
+            document.getElementById("seconds").innerHTML = "Seconds is extracted here:" +seconds ;
+
+            miliseconds = d.getMilliseconds();
+            document.getElementById("miliseconds").innerHTML = "Miliseconds is extracted here:" +miliseconds ;
+
+            time = d.getTime();
+            document.getElementById("time").innerHTML = "Time is extracted here:" +time ;
+
+            day = d.getDay();
+            document.getElementById("day").innerHTML = "Date  is extracted here:" +day ;
+
+        </script>
+    </body>
+

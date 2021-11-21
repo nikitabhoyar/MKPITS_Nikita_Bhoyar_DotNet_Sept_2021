@@ -1,0 +1,74 @@
+<html>
+    <head>
+    <title>Arithmetic Function in Javascript</title>
+    </head>
+    <body>
+        
+        <form>
+            <table width="300px"><caption>Arithmetic Operation</caption>
+
+        <tr>
+            <td>Number a</td>
+            <td><input type="text" id="a"></td>
+        </tr>
+
+        <tr>
+            <td>Number b</td><td><input type="text" id="b"></td>
+        </tr>
+
+        <tr>
+            <td>Answer</td>
+            <td><output  id="ans"></output></td>
+        </tr>
+
+            <tr>
+
+            <td><input type="button" value="Add" onclick="Add()"></td>
+                
+            <td><input type="button" value="Sub" onclick="Sub()"></td>
+
+            <td><input type="button" value="Mul" onclick="Mul()"></td>
+            <td><input type="button" value="Div" onclick="Div()"></td>
+            
+            </tr>
+
+        </form>
+
+            
+    </table>
+    
+    
+        <script>
+
+            function Add()
+            {
+                A=parseInt(document.getElementById("a").value);
+                B=document.getElementsById("b").value;
+                B=parseInt(B);
+                alert(A+B);
+                document.getElementById("ans").innerHTML=(A+B);
+            }
+
+            function Sub(a,b)
+            {
+                A=parseInt(document.getElementById("a").value);
+                B=document.getElementsById("b").value;
+                B=parseInt(B);
+                alert(A-B);
+                document.getElementById("ans").innerHTML=(A-B);
+            }
+
+            function Mul(a,b)
+            {
+            alert("Multiplication=" +(a*b));
+            }
+
+            function Div(a,b)
+            {
+            alert("Division =" +(a/b));
+            }
+
+        </script>
+    </body>
+   
+</html>

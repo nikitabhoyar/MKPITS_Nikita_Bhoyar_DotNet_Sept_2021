@@ -1,0 +1,51 @@
+<html>
+    <head>
+    <title>Arithmetic Function in Javascript</title>
+    </head>
+    <body>
+        
+        <form>
+            <table width="200px"><caption>Arithmetic Operation</caption>
+
+                <tr><td><input type="button" value="Add" onclick="Add(a,b)"></td></tr>
+                
+                <tr><td><input type="button" value="Sub" onclick="Sub(a,b)"></td></tr>
+
+                <tr><td><input type="button" value="Mul" onclick="Mul(a,b)"></td></tr>
+
+
+                <tr>
+                <td><input type="button" value="Div" onclick="Div(a,b)"></td>
+                </tr>
+        </form>
+    </table>
+    
+    
+        <script>
+           
+             a=parseInt(prompt("Enter First Number","1"));
+             b=parseInt(prompt("Enter Second Number","2"));
+            function Add(a,b)
+            {
+            alert("Addition =" +(a+b));
+            }
+
+            function Sub(a,b)
+            {
+            alert("Subtraction =" +(a-b));
+            }
+
+            function Mul(a,b)
+            {
+            alert("Multiplication=" +(a*b));
+            }
+
+            function Div(a,b)
+            {
+            alert("Division =" +(a/b));
+            }
+
+        </script>
+    </body>
+   
+</html>

@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+             <title>Employee Object</title>
+    </head>
+    <body>
+        <hr>
+        <center>
+            <h3>Javascript Object Employee Code</h3>
+            <p id="demo"></p>
+            <button onclick="this.innerHTML=Date()" This is ></button>
+            <script>
+                     const employee=
+                     {
+                        id:10001,
+                        firstname:"Nikita",
+                        lastname: "Bhoyar",
+                        salary: 35000,
+                        fullname: function()
+                        {
+                            return  this.firstname+ " "+this.lastname;
+                        }
+                     };
+
+                     document.getElementById("demo").innerHTML="Employee name is"  +employee.fullname();
+           </script>
+           </center>
+           <hr>
+    </body>
+          
+
