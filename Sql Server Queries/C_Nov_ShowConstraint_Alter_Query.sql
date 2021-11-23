@@ -19,5 +19,5 @@ alter table mymath add constraint pk primary key ;
 select * from mymath;
 
 
-  create table showconstraints(id int primary key identity(1,1),firstname varchar(20)not null , lastname varchar(30) default ('kumar'), salary decimal(12,2));
+create table showconstraints(id int primary key identity(1,1),firstname varchar(20)not null , lastname varchar(30) default ('kumar'), salary decimal(12,2));
 
