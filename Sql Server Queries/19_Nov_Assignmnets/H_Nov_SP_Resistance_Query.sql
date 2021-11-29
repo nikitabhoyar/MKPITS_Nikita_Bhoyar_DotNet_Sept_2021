@@ -1,5 +1,3 @@
-
-
 create procedure SPFindResistance 
                  @current int,
 				 @voltage int,
