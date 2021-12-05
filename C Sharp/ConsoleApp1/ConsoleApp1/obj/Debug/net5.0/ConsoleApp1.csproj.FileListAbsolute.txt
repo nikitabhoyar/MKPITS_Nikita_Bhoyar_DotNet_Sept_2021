@@ -1,0 +1,16 @@
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
