@@ -2,15 +2,42 @@
 
 #include<stdio.h>
 
-typedef struct Date
+ typedef struct
 {
 int date , month, year ;
-} d1;
+}
+ date;
 
-typedef struct Book
+typedef struct 
 {
-    int BookId , BPublishDate ,BEditionNo;
-    char Bname[20] , BAuthorname;
-    float Bprice;
-} b1;
+    int BookId ,BEditionNo, Bprice;;
+    date BPublishdate ;
+    char Bname[20] , BAuthorname[30];
+    
+} Book;
+
+int main()
+{
+    Book b1;
+    printf("The Book Details are as follows: \n");
+    printf("Enter BookName: ");
+    scanf("%s",b1.Bname);
+
+    printf("Enter BookPrice: ");
+    scanf("%d",&b1.Bprice);
+
+    printf("Enter BAuthorname: ");
+    scanf("%s",b1.BAuthorname);
+
+    printf("Enter BookId number: ");
+    scanf("%d",&b1.BookId);
+
+    printf("Enter BookEditionNo: ");
+    scanf("%d",&b1.BEditionNo);
+
+    printf("Enter BPublishdate in dd/mm/yyyy: ");
+    scanf("%d/%d/%d",&b1.BPublishdate.date,&b1.BPublishdate.month,&b1.BPublishdate.year);
+   
+    return 0;
+}
 
