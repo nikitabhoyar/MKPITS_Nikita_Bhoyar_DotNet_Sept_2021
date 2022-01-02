@@ -3,7 +3,7 @@
 int main()
 
 {
-    int number , i;
+    int  i;
     char c;
     for(i=1;i<=10;i++)
     {
