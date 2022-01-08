@@ -100,7 +100,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="auto-style9">Confirm Password</td>
+                    <td class="auto-style9">Confirm password</td>
                     <td class="auto-style10">
                         <asp:TextBox ID="TextBox6" runat="server" Height="24px"></asp:TextBox>
                     </td>
