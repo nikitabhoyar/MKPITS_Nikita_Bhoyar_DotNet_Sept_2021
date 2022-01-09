@@ -9,21 +9,14 @@ namespace AspNetProject
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-
-        }
         protected void TextBox1_TextChanged(object sender, EventArgs e)
         {
             Response.Redirect("WebForm2.aspx");
-
-
         }
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-                Response.Redirect("WebForm2.aspx");
+             Response.Redirect("WebForm2.aspx");
         }
     }
 }
