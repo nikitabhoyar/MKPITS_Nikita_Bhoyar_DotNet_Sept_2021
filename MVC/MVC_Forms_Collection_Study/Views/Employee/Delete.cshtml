@@ -1,12 +1,10 @@
 ﻿@model MVC_Form_Collection_Study.Models.Employee
-
 @{
     ViewBag.Title = "Delete";
 }
 <h2>Delete</h2>
 @using (Html.BeginForm("Create", "Employeer", FormMethod.Post))
 {@Html.AntiForgeryToken()
-
 
 <table>
     <tr>
@@ -17,8 +15,7 @@
             @Html.TextBox("fname")
         </td>
     </tr>
-
-
+    
     <tr>
         <td>
             LastName:
@@ -27,9 +24,7 @@
             @Html.TextBox("lname")
         </td>
     </tr>
-
-
-
+    
     <tr>
         <td>
             Salary:
@@ -38,15 +33,11 @@
             @Html.TextBox("salary")
         </td>
     </tr>
-
-
     <tr>
         <td colspan="2 " align="center">
             <input type="button" value="Submit" />
         </td>
     </tr>
-
-
 </table>
 }
 
