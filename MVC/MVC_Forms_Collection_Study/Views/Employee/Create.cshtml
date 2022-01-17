@@ -1,5 +1,4 @@
 ﻿@model MVC_Form_Collection_Study.Models.Employee
-
 @{
     ViewBag.Title = "Create";
 }
@@ -7,7 +6,6 @@
 <h2>Create</h2>
 @using (Html.BeginForm("Create", "Employeer", FormMethod.Post))
 {@Html.AntiForgeryToken()
-
 
 <table>
     <tr>
@@ -18,8 +16,7 @@
             @Html.TextBox("fname")
         </td>
     </tr>
-
-
+    
     <tr>
         <td>
             LastName:
@@ -28,9 +25,7 @@
             @Html.TextBox("lname")
         </td>
     </tr>
-
-
-
+    
     <tr>
         <td>
             Salary:
@@ -40,20 +35,14 @@
         </td>
     </tr>
 
-
     <tr>
         <td colspan="2 " align="center">
             <input type="button" value="Submit" />
         </td>
     </tr>
-
-
+    
 </table>
 }
-
-
-
-
     @*<div class="form-horizontal">
         <h4>Employee</h4>
         <hr />
