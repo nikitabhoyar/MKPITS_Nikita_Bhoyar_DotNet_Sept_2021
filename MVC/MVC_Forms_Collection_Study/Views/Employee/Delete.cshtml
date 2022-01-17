@@ -1,0 +1,106 @@
+﻿@model MVC_Form_Collection_Study.Models.Employee
+
+@{
+    ViewBag.Title = "Delete";
+}
+<h2>Delete</h2>
+@using (Html.BeginForm("Create", "Employeer", FormMethod.Post))
+{@Html.AntiForgeryToken()
+
+
+<table>
+    <tr>
+        <td>
+            FirstName:
+        </td>
+        <td>
+            @Html.TextBox("fname")
+        </td>
+    </tr>
+
+
+    <tr>
+        <td>
+            LastName:
+        </td>
+        <td>
+            @Html.TextBox("lname")
+        </td>
+    </tr>
+
+
+
+    <tr>
+        <td>
+            Salary:
+        </td>
+        <td>
+            @Html.TextBox("salary")
+        </td>
+    </tr>
+
+
+    <tr>
+        <td colspan="2 " align="center">
+            <input type="button" value="Submit" />
+        </td>
+    </tr>
+
+
+</table>
+}
+
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.fname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.city)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.city)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.branch)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.branch)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.salary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.salary)
+        </dd>
+
+    </dl>
+    <div class="form-actions no-color">
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+    }
+</div>
+
