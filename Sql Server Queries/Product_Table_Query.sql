@@ -1,0 +1,3 @@
+use myDB;
+
+	CREATE TABLE Product(	[Id] [int] IDENTITY(1,1) NOT NULL,	[productname] [nvarchar](max) NULL,	[category_Id] [int] NULL,	[unitprice] [decimal](18, 2) NULL,	[photo] [nvarchar](max) NULL);	insert into Product values ('Biscuits' , '101' , 20.00 ,NULL   );	insert into Product values ('Oil' , '102' , 30.00 ,NULL   );	insert into Product values ('IceCream' , '103' , 40.00 ,NULL   );	insert into Product values ('Shampoo' , '104' , 50.00 ,NULL   );	insert into Product values ('Spices' , '105' , 60.00 ,NULL   );	insert into Product values ('Soaps' , '106' , 70.00 ,NULL   );	insert into  Product values(~\Pictures\Photos\Biscuits.jpg);	select * from Product;

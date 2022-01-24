@@ -1,0 +1,4 @@
+use myDB;
+
+		
+	CREATE TABLE Productinfo(	[Id] [int] IDENTITY(1,1) NOT NULL,	[productname] [nvarchar](max) NULL,	[category_Id] [int] NULL,	[unitprice] [decimal](18, 2) NULL,	[photo] [nvarchar](max) NULL);	insert into Productinfo values ('Biscuits' , '101' , 20.00 , '~\Pictures\Photos\Biscuits.jpg' );	insert into Productinfo values ('Oil' , '102' , 30.00 ,'~\Photos\Spices.jpg'  );	insert into Productinfo values ('IceCream' , '103' , 40.00 , '~\Photos\Icecream.jpg');	insert into Productinfo values ('Shampoo' , '104' , 50.00 , '~\Photos\Oil.jpg' );	insert into Productinfo values ('Spices' , '105' , 60.00 ,'~\Photos\Spices.jpg'  );	insert into Productinfo values ('Soaps' , '106' , 70.00 ,'~\Photos\Spices.jpg');	select * from Productinfo;
