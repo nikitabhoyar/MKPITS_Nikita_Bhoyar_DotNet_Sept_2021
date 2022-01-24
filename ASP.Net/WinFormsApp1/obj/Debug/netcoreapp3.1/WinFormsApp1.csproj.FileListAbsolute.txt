@@ -1,0 +1,25 @@
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Nikita Bhoyar\source\repos\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\ASP.Net_Class_Projects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
