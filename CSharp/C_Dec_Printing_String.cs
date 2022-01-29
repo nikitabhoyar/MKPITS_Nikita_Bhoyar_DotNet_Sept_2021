@@ -10,7 +10,7 @@ namespace First_Program
     {
         static void Main(string[] args)
         {
-            string message = "Hello Nikita";
+            string message = "Welcome Nikita";
             Console.WriteLine(message);
         }
     }
