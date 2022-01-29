@@ -12,8 +12,7 @@ namespace MyConsoleProject
         {
             Console.Write("Nikita Bhoyar");
             Console.WriteLine(" is a Software Engineer");
-           
-
+            
             int x = 5, y = 5, length, breadth, r;
             double pi = 3.14;
             char color = 'r';
