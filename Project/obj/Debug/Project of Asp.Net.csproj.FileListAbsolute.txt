@@ -1,0 +1,74 @@
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Project of Asp.Net.dll.config
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Project of Asp.Net.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Project of Asp.Net.pdb
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\csc.exe
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\csc.exe.config
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\csc.rsp
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\csi.exe
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\csi.exe.config
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\csi.rsp
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.AppContext.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Collections.Immutable.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Console.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Globalization.Calendars.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.IO.Compression.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.IO.FileSystem.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Net.Http.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Net.Sockets.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Reflection.Metadata.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.ValueTuple.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Xml.XPath.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\vbc.exe
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\vbc.exe.config
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\vbc.rsp
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\VBCSCompiler.exe
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\roslyn\VBCSCompiler.exe.config
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Antlr3.Runtime.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\AspNet.ScriptManager.bootstrap.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\AspNet.ScriptManager.jQuery.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Microsoft.ScriptManager.WebForms.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Microsoft.Web.Infrastructure.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Newtonsoft.Json.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\System.Web.Optimization.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\WebGrease.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\System.Web.Optimization.xml
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Newtonsoft.Json.xml
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Antlr3.Runtime.pdb
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\obj\Debug\Project of Asp.Net.csproj.AssemblyReference.cache
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\obj\Debug\Project of Asp.Net.csproj.CoreCompileInputs.cache
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\obj\Debug\Project of Asp.Net.csproj.CopyComplete
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\obj\Debug\Project of Asp.Net.dll
+D:\MKPITS\My Traning Practicse Folder\Project of Asp.Net\obj\Debug\Project of Asp.Net.pdb
