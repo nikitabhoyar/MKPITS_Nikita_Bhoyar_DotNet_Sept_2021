@@ -1,7 +1,0 @@
-D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\CSharp\First_Program\First_Program\bin\Debug\First_Program.exe.config
-D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\CSharp\First_Program\First_Program\bin\Debug\First_Program.exe
-D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\CSharp\First_Program\First_Program\bin\Debug\First_Program.pdb
-D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\CSharp\First_Program\First_Program\obj\Debug\First_Program.csproj.AssemblyReference.cache
-D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\CSharp\First_Program\First_Program\obj\Debug\First_Program.csproj.CoreCompileInputs.cache
-D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\CSharp\First_Program\First_Program\obj\Debug\First_Program.exe
-D:\MKPITS\MKPITS_Nikita_Bhoyar_DotNet_Sep_2021\CSharp\First_Program\First_Program\obj\Debug\First_Program.pdb
