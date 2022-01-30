@@ -9,7 +9,6 @@ namespace Client_server_Site_Example
 {
     public partial class Readcookie : System.Web.UI.Page
     {
-
         HttpCookie h;
 
         protected void Page_Load(object sender, EventArgs e)
@@ -21,8 +20,7 @@ namespace Client_server_Site_Example
             }
 
             BulletedList1.DataBind();
-
-        }
+         }
 
         protected void BulletedList1_Click(object sender, BulletedListEventArgs e)
         {
