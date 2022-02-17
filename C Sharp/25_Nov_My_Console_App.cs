@@ -54,7 +54,7 @@ namespace _25_Nov_My_Console_App
             Console.WriteLine("Enter the value of radius");
 
             //r = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Area of Circle = ") + (pi*r*r));
+            //Console.WriteLine("Area of Circle = ") + (pi*r*r);
 
             Console.WriteLine("Formated ouput of Area of Circle is = {0:f2} ", (pi * x * x));
 
