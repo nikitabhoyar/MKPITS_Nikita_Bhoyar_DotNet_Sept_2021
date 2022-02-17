@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace C_Dec3_Abstractclass_Interface_Shapes_Copy
+{ 
+    abstract class Shape      //abstract is use 
+    {
+        public string color { get;set;}
+        public abstract void Area();     //method or function
+        public virtual void ShowColor()  //virtula -reusibility
+        {
+            Console.WriteLine("Color of Shapes");
+        }
+
+    }
+}
