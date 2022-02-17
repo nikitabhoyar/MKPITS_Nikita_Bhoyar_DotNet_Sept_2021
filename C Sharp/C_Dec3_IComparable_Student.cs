@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec3_IComparable
+namespace C_Dec3_IComparable_Student
 {
     class Student : IComparable
     {
