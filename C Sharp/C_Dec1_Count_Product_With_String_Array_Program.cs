@@ -1,4 +1,4 @@
-﻿using System;
+using system;
 
 namespace C_Dec_Count_product_with_string_array
 {

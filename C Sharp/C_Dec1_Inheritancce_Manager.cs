@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec1_inheraictance
+namespace C_Dec1_inheritance
 {
     class Manager : Employee
     {
