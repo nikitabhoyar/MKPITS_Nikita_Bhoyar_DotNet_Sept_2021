@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec3_Inheritance_Point
+namespace C_Dec3_Inheritance_Point_Program
 {
     class Point
     {
