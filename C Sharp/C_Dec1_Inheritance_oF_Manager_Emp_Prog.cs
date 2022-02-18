@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec1_Inheritance_oF_Manager_Empployee_Prog
+namespace C_Dec1_Inheritance_oF_Manager_Employee_Prog
 {
     class Manager : Employee
     {
