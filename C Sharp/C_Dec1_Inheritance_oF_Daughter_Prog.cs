@@ -21,6 +21,7 @@ namespace C_Dec1_Inheritance_oF_Daughter
         {
             D_age = dage;
             D_Name = dname;
+            
             Console.WriteLine("Daughter object Created");
         }
 
