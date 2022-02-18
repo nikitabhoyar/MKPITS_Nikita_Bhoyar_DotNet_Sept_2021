@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_Nov_Array
+namespace C_Nov_25_Array_Prog
 {
     class Program
     {
