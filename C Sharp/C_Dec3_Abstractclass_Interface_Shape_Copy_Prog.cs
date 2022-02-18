@@ -11,7 +11,7 @@ namespace C_Dec3_Abstractclass_Interface_Shape_Copy_Prog
         public abstract void Area();     //method or function
         public virtual void ShowColor()  //virtula -reusibility
         {
-            Console.WriteLine("Color of Shapes");
+            Console.WriteLine("Color of Shape");
         }
 
     }
