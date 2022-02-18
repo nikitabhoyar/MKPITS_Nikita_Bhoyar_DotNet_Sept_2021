@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec1_Inheritance_of_Mother_Prog
+namespace C_Dec1_Inheritance_oF_Mother_Prog
 {
     class Mother
     {
