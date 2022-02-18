@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec1_Inheritance_OF_Father_Son_Father
+namespace C_Dec1_Inheritance_oF_Father_Son_Father
 {
     class Father
     {
