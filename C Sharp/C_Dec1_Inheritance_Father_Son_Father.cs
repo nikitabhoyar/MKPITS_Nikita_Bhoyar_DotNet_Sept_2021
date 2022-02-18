@@ -15,7 +15,6 @@ namespace C_Dec1_Inheritance_Father_Son_Father
             Age = 45;
             Name = "Devanand";
             // Console.WriteLine("Father Object Created");
-
         }
         public Father(int age, string name)
         {
