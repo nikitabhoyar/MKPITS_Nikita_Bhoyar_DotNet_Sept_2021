@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec3_Exception_handling
+namespace C_Dec3_Exception_Handling_Program
 {
     class Program
     {
