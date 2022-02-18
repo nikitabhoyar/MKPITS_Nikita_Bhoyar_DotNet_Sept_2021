@@ -14,7 +14,7 @@ namespace C_Dec_Count_product_with_string_array
             Console.WriteLine("following are the Fruits names :");
             CountProduct("mango", "chiku", "apple", "orange");
 
-            GetDetails(name: "Nikita", id: 1, designation: "PRoject Leader");
+            GetDetails(name: "Nikita", id: 1, designation: "Project Leader");
         }
 
         public static void CountProduct(params string[] Product)//params using 
