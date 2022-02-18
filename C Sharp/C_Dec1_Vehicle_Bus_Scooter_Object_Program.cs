@@ -7,7 +7,7 @@ namespace C_Dec1_vehicle_bus_scooter_car
     {
         static void Main(string[] args)
         {
-            Vehical v1 = new Vehical();
+            Vehicle v1 = new Vehical();
             Console.WriteLine(v1);
 
             Scooter s1 = new Scooter();
