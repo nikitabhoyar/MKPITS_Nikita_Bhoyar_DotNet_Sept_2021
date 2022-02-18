@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec3_Abstractclass_Interface_Program
+namespace C_Dec3_Abstract_Class_Interface_Shape_Program
 {
     class Program
     {
