@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace C_Dec1_Inheritance_Father_Son_Program
+namespace C_Dec1_Inheritance_OF_Father_Son_Program
 {
     class Program
     {
