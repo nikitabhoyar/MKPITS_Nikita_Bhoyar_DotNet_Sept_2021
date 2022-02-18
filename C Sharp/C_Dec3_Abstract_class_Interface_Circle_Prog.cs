@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec3_Abstractclass_Interface
+namespace C_Dec3_Abstract_class_Interface_Circle_Prog
 {
     class Circle: Shape
     {
