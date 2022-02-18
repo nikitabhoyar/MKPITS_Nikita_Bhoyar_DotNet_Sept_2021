@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec3_Interface_Example
+namespace C_Dec3_Interface_Example_Program
 {
     class Program
     {
