@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace C_Dec1_vehicle_bus_scooter_car
+namespace C_Dec1_Vehicle_Bus_Scooter_Object_Program
 {
     class Program
     {
