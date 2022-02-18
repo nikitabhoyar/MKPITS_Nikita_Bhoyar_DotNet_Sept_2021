@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace C_Dec1_Inheritance_Daughter
 {   
-    class Daughter : Mother   ///first write here 
+    class Daughter : Mother                             ///first write here 
     {
         public int D_age { get; set; }
         public string D_Name { get; set; }
 
-        public Daughter() : base() //default constructor
+        public Daughter() : base()                      //default constructor
         {
             D_age = 12;
             D_Name = "trisha";
-            // Console.WriteLine("Daughter object Created");
+         // Console.WriteLine("Daughter object Created");
         }
         public Daughter(int dage, string dname, int mage, string mname) : base(mage, mname)
         {
