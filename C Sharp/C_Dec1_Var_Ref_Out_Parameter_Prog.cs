@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_Dec1_Var_ref_out_parparameter
+namespace C_Dec1_Var_Ref_Out_Parameter_Prog
 {
     class Program
     {
