@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec3_Inheritance_Cylinder
+namespace C_Dec3_Inheritance_OF_Cylinder_Program
 {
     class Cylinder : Circle
     {
