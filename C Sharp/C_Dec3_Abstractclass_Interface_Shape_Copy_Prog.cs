@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec3_Abstractclass_Interface_Shapes_Copy
+namespace C_Dec3_Abstractclass_Interface_Shape_Copy_Prog
+
 { 
     abstract class Shape      //abstract is use 
     {
