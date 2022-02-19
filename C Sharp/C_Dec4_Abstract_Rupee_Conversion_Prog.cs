@@ -8,7 +8,5 @@ namespace C_Dec4_Abstract_rupee_Conversion
     {
         public string Conversion { get; set; }
         public abstract void ToRupees();  //method or function
-
-
     }
 }
