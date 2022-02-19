@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec4_Abstract_Rupee_Conversion_Euro_Prog
+namespace C_Dec4_Euro_To_Rupees_Conversion_Prog
 {
     class Euro : Currency
     {
