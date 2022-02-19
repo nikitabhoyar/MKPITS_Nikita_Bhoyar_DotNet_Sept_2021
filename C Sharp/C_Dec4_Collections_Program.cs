@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace C_Dec4_Collections
+namespace C_Dec4_Collections_Program
 {
     class Program
     {
