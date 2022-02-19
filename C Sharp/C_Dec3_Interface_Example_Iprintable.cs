@@ -8,5 +8,4 @@ namespace C_Dec3_Interface_Example
     {
         void Display();
     }
-
 }
