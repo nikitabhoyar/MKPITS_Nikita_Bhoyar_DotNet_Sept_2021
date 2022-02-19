@@ -7,7 +7,6 @@ namespace C_Dec4_Custom_Exception_Program
         static void Main(string[] args)
         {
             int x;
-
             try
             {
                 Console.WriteLine("Enter a Number");
