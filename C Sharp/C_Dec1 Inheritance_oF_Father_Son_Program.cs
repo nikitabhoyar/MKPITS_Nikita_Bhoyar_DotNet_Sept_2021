@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C_Dec1_Inheritance_Father_Son_Son_Program
+namespace C_Dec1_Inheritance_oF_Father_Son_Program
 {
     internal class Son : Father
     {
