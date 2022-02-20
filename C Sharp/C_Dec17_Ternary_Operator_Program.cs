@@ -11,8 +11,8 @@ namespace C_Dec17_Ternary_Operator_Program
             Console.WriteLine("Value of i = " + i);
             Console.WriteLine("Value of i = " + j);
             k = (i--) * (i--) + (2 * j);
-            Console.WriteLine("the value are k = " + k);
+            Console.WriteLine("The value oF k is = " + k);
         }
-        // Console.WriteLine("the value are k" + k);
+        // Console.WriteLine("The value oF k is " + k);
     }
 }
