@@ -1,7 +1,7 @@
 ﻿using C_Dec3_Interface_Example;
 using System;
 
-namespace C_Dec3_Interface_Example_Car
+namespace C_Dec3_Interface_Example_Car_Prog
 {
     internal class Car : Vehicle, IPrintable, IDisplayble
     {
