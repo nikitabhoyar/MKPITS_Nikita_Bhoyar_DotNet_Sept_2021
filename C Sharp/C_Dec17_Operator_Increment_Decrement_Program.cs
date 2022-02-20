@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec17_Operator_Value_Increment_Decrement_Program
+namespace C_Dec17_Operator_Increment_Decrement_Program
 {
     class Program
     {
