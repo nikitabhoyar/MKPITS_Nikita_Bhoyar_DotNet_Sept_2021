@@ -1,6 +1,6 @@
 using system;
 
-namespace C_Dec_Count_product_with_string_array
+namespace C_Dec1_Count_Product_With_String_Array_Program
 {
     class Program
     {
