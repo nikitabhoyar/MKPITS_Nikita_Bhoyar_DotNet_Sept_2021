@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec19_Area_oF_Cir_Rect_Tri_Program
+namespace C_Dec19_Area_oF_Cir_Rect_Tri_Prog
 {
     class Program
     {
@@ -8,8 +8,9 @@ namespace C_Dec19_Area_oF_Cir_Rect_Tri_Program
         {
             //Function overloading : given extra task to the same function
             //operator overloading : given extra task to an operator 
-            Console.WriteLine("Enter The Value Number");
-            Console.WriteLine("Enter  value of length");
+            
+            Console.WriteLine("Enter the value number");
+            Console.WriteLine("Enter value of length");
             int l = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter  value of Breadth");
             int b = Convert.ToInt32(Console.ReadLine());
