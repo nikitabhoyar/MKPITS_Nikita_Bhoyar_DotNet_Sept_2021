@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec19_Area_oF_Cir_Rect_Tri_Prog
+namespace C_Dec19_Area_oF_Shapes_Prog
 {
     class Program
     {
