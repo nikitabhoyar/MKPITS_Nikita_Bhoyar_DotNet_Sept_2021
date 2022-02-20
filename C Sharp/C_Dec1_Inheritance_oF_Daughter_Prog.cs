@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_Dec1_Inheritance_oF_Daughter
+namespace C_Dec1_Inheritance_oF_Daughter_Prog
 {   
     class Daughter : Mother                             ///first write here 
     {
