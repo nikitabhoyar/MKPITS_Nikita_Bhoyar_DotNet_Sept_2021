@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec19_Even_Odd_Using_IfElse_If
+namespace C_Dec19_Even_Odd_Pos_Neg_Num_Prog
 {
     class Program
     {
