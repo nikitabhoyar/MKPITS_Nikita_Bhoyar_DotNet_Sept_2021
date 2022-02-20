@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec4_Abstract_Rupee_Conversion_Prog
+namespace C_Dec4_Rupee_To_Diff_Currency_Prog
 {
 class Program
     {
