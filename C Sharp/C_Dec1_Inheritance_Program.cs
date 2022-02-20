@@ -1,5 +1,5 @@
 ﻿
-using C_Dec1_Inheraictance_Program;
+using C_Dec1_Inheritance_Program;
 using System;
 
 namespace C_Dec1_Inheritance_Program
