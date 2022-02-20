@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Dec17_Area_of_Rectangle
+namespace C_Dec4_Area_of_Rectangle_Program
 {
     class Program
     {
