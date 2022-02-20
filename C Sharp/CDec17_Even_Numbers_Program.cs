@@ -11,7 +11,7 @@ namespace C_Dec17_Even_Numbers_Program
             for (int i = 2; i <= 100; i++)
             {
                 if (i % 2 == 0)                 //even logic
-                    j++;
+                j++;
                 Console.WriteLine(i);
             }
             Console.WriteLine("The even no are " + j);  //for count 
