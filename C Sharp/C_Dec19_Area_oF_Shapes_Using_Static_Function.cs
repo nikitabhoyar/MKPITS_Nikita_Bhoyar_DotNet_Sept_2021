@@ -44,7 +44,6 @@ namespace C_Dec19_Static_function_Area
         public static void Area_Triangle(int b, int h)
         {
             double a1 = 0.5 * b * h;
-
             Console.WriteLine("Area of Triangle ={0:f3} ", a1);
         }
     }
