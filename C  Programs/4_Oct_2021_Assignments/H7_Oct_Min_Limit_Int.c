@@ -7,7 +7,6 @@ int main()
    int a =  INT_MIN;
    short b = SHRT_MIN;
    char c = CHAR_MIN;
-   short d = SHRT_MIN;
    long e = LONG_MIN;
    long f = LLONG_MIN;
 
